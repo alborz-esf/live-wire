@@ -47,7 +47,7 @@ Ensure you have the following installed:
 1. Run the main script:
 
     ```bash
-    python livewire_tool.py
+    python app_without_dl.py
     ```
 
 2. Follow the instructions on the console to input your image directory.
