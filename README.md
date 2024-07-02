@@ -75,9 +75,9 @@ Ensure you have the following installed:
 
 | File Name           | Description                                          |
 | ------------------- | ---------------------------------------------------- |
-| `livewire_tool.py`  | Main script to run the segmentation tool.            |
+| `app_without_dl.py`  | The main script is used to run the segmentation tool.            |
 | `requirements.txt`  | Lists the dependencies required for the project.     |
-| `README.md`         | This README file providing an overview of the project. |
+| `README.md`         | This README file provides an overview of the project. |
 
 ## Functions
 
