@@ -75,7 +75,10 @@ Ensure you have the following installed:
 
 | File Name           | Description                                          |
 | ------------------- | ---------------------------------------------------- |
-| `app_without_dl.py`  | The main script is used to run the segmentation tool.            |
+| `app_without_dl.py`  | The main script is used to run UI of the segmentation tool.            |
+| `dijkstra.py`  | dijkstra algorithm.|
+| `livewiresegmentation.py`  |   Implements the Live Wire segmentation algorithm for image processing. |
+| `trackmanager.py`  |      Manages path tracking for image segmentation using the Live Wire algorithm. |
 | `requirements.txt`  | Lists the dependencies required for the project.     |
 | `README.md`         | This README file provides an overview of the project. |
 
